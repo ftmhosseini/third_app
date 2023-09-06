@@ -17,7 +17,7 @@ Within this Flutter app, you'll discover a dedicated Horizontal Cooking Page off
 
 <b>Preparation Time:</b> Information on the time required for preparation, ensuring users have a comprehensive understanding of the cooking process.
 
-<b>Serving Size:<\b> Details on the number of servings a particular recipe yields, allowing users to adjust quantities to suit their needs, whether cooking for one or a group.
+<b>Serving Size:</b> Details on the number of servings a particular recipe yields, allowing users to adjust quantities to suit their needs, whether cooking for one or a group.
 
 
 ## Getting Started
